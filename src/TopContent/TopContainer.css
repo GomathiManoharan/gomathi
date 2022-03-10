@@ -1,0 +1,8 @@
+.topcontainer{
+   background-image: url('../Assests/Gom.jpg');
+   height: 200vh;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size:cover;
+
+}

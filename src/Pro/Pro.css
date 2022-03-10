@@ -1,0 +1,14 @@
+.list{
+    display: flex;
+    flex-direction: column-reverse;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+.list{
+    color: aliceblue;
+}
+.pro {
+    color: aliceblue;
+}

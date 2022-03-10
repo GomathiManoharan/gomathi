@@ -1,0 +1,24 @@
+.skill{
+    display: flex;
+}
+.skillContainer_image>img{
+    height: 500px;
+    width: 1000px;
+    padding: 12px;
+    margin: 12px;
+}
+.skillcontainer_skillset>h2{
+    color: aliceblue;
+    font-weight: bolder;
+    padding: 12px;
+    margin: 12px;
+    
+}
+.skill_slider>h5{
+    font-weight: bolder;
+    color: aliceblue;
+    padding: 12px;
+}
+.skill_slide>LinearProgress{
+    background-color: blueviolet;
+}
